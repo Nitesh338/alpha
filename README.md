@@ -1,0 +1,2 @@
+# alpha
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/419903b201584288855d5d55ebf18b98)](https://app.codacy.com/manual/Nitesh338/alpha?utm_source=github.com&utm_medium=referral&utm_content=Nitesh338/alpha&utm_campaign=Badge_Grade_Settings)
